@@ -1,11 +1,10 @@
-# NFT smart contract Contracts
+# NFT Smart Contracts (ERC-721)
 
 ## About
 
 This code is to create a NFT smart contract.
 
 - [ERC-721: Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
-- [ERC-1155: Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
 
 ## How it works?
 
